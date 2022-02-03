@@ -1,0 +1,4 @@
+
+interface ReaderOptions {
+    wordDelimiters: RegExp
+}
